@@ -25,3 +25,5 @@
 * notebooks/ → experiments
 * tests/ → test files
 * scripts/ → utility scripts
+
+Project setup completed.
